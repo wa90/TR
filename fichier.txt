@@ -1,1 +1,1 @@
-ok reset
+ok commit amend oublier le fichier
